@@ -1,0 +1,8 @@
+com.ejemplo.crudroom.app-pngs-0 C:\Users\santy\Desktop\Ejemplo CRUD\app\build\generated\res\pngs\debug
+com.ejemplo.crudroom.app-updated_navigation_xml-1 C:\Users\santy\Desktop\Ejemplo CRUD\app\build\generated\updated_navigation_xml\debug
+com.ejemplo.crudroom.app-packageDebugResources-2 C:\Users\santy\Desktop\Ejemplo CRUD\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.ejemplo.crudroom.app-packageDebugResources-3 C:\Users\santy\Desktop\Ejemplo CRUD\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.ejemplo.crudroom.app-debug-4 C:\Users\santy\Desktop\Ejemplo CRUD\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.ejemplo.crudroom.app-debug-5 C:\Users\santy\Desktop\Ejemplo CRUD\app\src\debug\res
+com.ejemplo.crudroom.app-main-6 C:\Users\santy\Desktop\Ejemplo CRUD\app\src\main\res
+gradleHome-0 C:\Users\santy\.gradle
